@@ -1,0 +1,2 @@
+# Beginner-friendly-HTML-examples-and-explanations-for-learning-the-basics-of-web-development.
+This repository contains simple HTML examples and explanations for beginners.  The goal is to help new developers understand the basics of HTML step by step.  ## Topics  1. HTML Structure 2. Headings and Text 3. Links 4. Images 5. Lists 6. Div Containers 7. Class and ID 8. Anchor Links 9. Span 10. Buttons 11. Forms 12. Style Tag 13. Semantic HTML
